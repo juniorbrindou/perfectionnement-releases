@@ -8,12 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/juniorbrindou/perfectionnement-releases/releases/latest/download/perfectionnement.apk">
-    <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Android-2f9e57?style=for-the-badge&logo=android&logoColor=white" alt="Télécharger pour Android">
-  </a>
-  <a href="https://github.com/juniorbrindou/perfectionnement-releases/releases">
-    <img src="https://img.shields.io/github/v/release/juniorbrindou/perfectionnement-releases?style=for-the-badge&label=version&color=c99a3c" alt="Dernière version">
-  </a>
+  <a href="https://github.com/juniorbrindou/perfectionnement-releases/releases/latest/download/perfectionnement.apk"><img src="images/bouton-telecharger.png" alt="Télécharger pour Android" width="320"></a>
+  <a href="https://github.com/juniorbrindou/perfectionnement-releases/releases"><img src="images/bouton-versions.png" alt="Toutes les versions" width="320"></a>
 </p>
 
 ---
