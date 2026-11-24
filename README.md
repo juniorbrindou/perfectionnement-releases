@@ -79,4 +79,4 @@ Toutes les versions et leurs nouveautés : **[Versions](https://github.com/junio
 
 ---
 
-<p align="center"><sub>Version de test avant la sortie sur Google Play. Android uniquement.</sub></p>
+<p align="center"><sub>Version de test avant la sortie sur Google Play. Android uniquement. · <a href="CONFIDENTIALITE.md">Règles de confidentialité</a></sub></p>
